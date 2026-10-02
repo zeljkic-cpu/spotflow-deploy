@@ -6,7 +6,7 @@
   for (var i = 0; i < links.length; i++) {
     links[i].href = links[i].href.replace(
       'favicon-v11/spotflow-favicon-v11-4-stolpci-crna-obroba',
-      'favicon-v9-03d/spotflow-favicon-v9-03d'
+      'favicon-v12/spotflow-favicon-v12-4-stolpci-rdeca-obroba'
     )
   }
 })()

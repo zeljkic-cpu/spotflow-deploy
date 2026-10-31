@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-DAXXjFlN.js";import{r as t}from"./createLucideIcon-D9uvNBSu.js";import{_ as n}from"./download-CxD1lPGN.js";var r=e(t(),1);function i(e,t,i){(0,r.useEffect)(()=>(n(e,t?i:null),()=>n(e,null)),[e,t,i])}export{i as t};
